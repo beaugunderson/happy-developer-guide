@@ -470,22 +470,22 @@ Vim is a modal editor, and the two modes you'll need to know are *normal* and
 can write and delete text like a normal editor, you'll use one of these
 commands:
 
-- <kbd>i</kdb> enter insert mode before the cursor
-- <kbd>a</kdb> enter insert mode after the cursor
-- <kbd>I</kdb> enter insert mode at the start of the line
-- <kbd>A</kdb> enter insert mode at the end of the line
+- <kbd>i</kbd> enter insert mode before the cursor
+- <kbd>a</kbd> enter insert mode after the cursor
+- <kbd>I</kbd> enter insert mode at the start of the line
+- <kbd>A</kbd> enter insert mode at the end of the line
 
 To leave *insert* mode you'll hit the <kbd>esc</kbd> key.
 
 These are the most useful normal mode commands for moving around or changing a
 file:
 
-- <kbd>^</kdb> move to the start of the line
-- <kbd>$</kdb> move to the end of the line
+- <kbd>^</kbd> move to the start of the line
+- <kbd>$</kbd> move to the end of the line
 - <kbd>w</kbd> move forward one word
 - <kbd>b</kbd> move backward one word
 - <kbd>x</kbd> delete the character under the cursor
-- <kbd>d</kbd><kdb>d</kbd> delete the current line
+- <kbd>d</kbd><kbd>d</kbd> delete the current line
 
 And of course you'll want to be able to save and quit:
 
