@@ -351,13 +351,13 @@ man() {
     LESS_TERMCAP_us=$'\e[1;32m' \
     man "$@"
 }
+```
 
+```sh
 if echo hello|grep --color=auto l >/dev/null 2>&1; then
   export GREP_COLOR="1;32"
 fi
 ```
-
-#### Color
 
 ```sh
 # Fancy LS_COLORS
