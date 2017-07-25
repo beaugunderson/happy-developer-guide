@@ -477,8 +477,8 @@ commands:
 
 To leave *insert* mode you'll hit the <kbd>esc</kbd> key.
 
-These are the most useful normal mode commands for moving around or changing a
-file:
+These are the most useful *normal* mode commands for moving around or changing
+a file:
 
 - <kbd>^</kbd> move to the start of the line
 - <kbd>$</kbd> move to the end of the line
