@@ -1,3 +1,6 @@
+This is a *work in progress*,  mostly written to share some tips with my
+coworkers.
+
 # Beau's guide to being a happy developer
 
 In this guide being happy means:
@@ -458,6 +461,16 @@ eval $($DIRCOLORS -b $HOME/.dircolors)
 	diff = diff-so-fancy | less --tabs=4 -RFX
 	show = diff-so-fancy | less --tabs=4 -RFX
 ```
+
+### `hub`
+
+### `pbcopy` and `pbpaste`
+
+### psql
+
+https://www.citusdata.com/blog/2017/07/16/customizing-my-postgres-shell-using-psqlrc/
+
+### Django
 
 ### Vim
 
